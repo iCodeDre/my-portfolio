@@ -65,7 +65,7 @@ const home = {
   },
   subline: (
     <>
-      I'm Anthony(iCodeDre), a junior Full-Stack Web Developer,
+      I'm Anthony(iCodeDre), a Junior Full-Stack Web Developer,
       <br /> passionate about bringing ideas to life with code.
     </>
   ),
