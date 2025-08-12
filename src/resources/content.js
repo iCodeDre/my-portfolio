@@ -150,7 +150,7 @@ const about = {
         ),
         images: [
           {
-            src: "/images/certificates/fullstack-cert.png",
+            src: "/images/cert-docs/fullstack-cert.png",
             alt: "Project image",
             width: 16,
             height: 9,
@@ -164,7 +164,7 @@ const about = {
         ),
         images: [
           {
-            src: "/images/certificates/react-cert.png",
+            src: "/images/cert-docs/react-cert.png",
             alt: "Project image",
             width: 16,
             height: 9,
@@ -180,7 +180,7 @@ const about = {
         ),
         images: [
           {
-            src: "/images/certificates/database-cert.png",
+            src: "/images/cert-docs/database-cert.png",
             alt: "Project image",
             width: 16,
             height: 9,
@@ -197,7 +197,7 @@ const about = {
         ),
         images: [
           {
-            src: "/images/certificates/next-cert.png",
+            src: "/images/cert-docs/next-cert.png",
             alt: "Project image",
             width: 16,
             height: 9,
