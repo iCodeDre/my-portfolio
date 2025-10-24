@@ -65,7 +65,7 @@ const home = {
   },
   subline: (
     <>
-      I'm Anthony(iCodeDre), a Junior Full-Stack Web Developer,
+      I'm Anthony(iCodeDre), an experinced Full-Stack Web Developer,
       <br /> passionate about bringing ideas to life with code.
     </>
   ),
@@ -92,15 +92,16 @@ const about = {
     title: "Introduction",
     description: (
       <>
-        Anthony is a motivated Junior Full-Stack Web Developer with a strong
-        passion for coding and problem-solving. He has hands-on experience in
-        building and deploying real-world web applications, demonstrating solid
-        technical skills in both frontend and backend development. Holding a
-        Bachelor’s degree in Medical Laboratory Sciences, Anthony brings a
-        unique blend of analytical thinking and attention to detail to his work.
-        His current goal is to gain professional, real-life experience by
-        collaborating with development teams as a junior developer or intern,
-        further honing his skills and contributing to impactful projects.
+        Anthony is a well-experienced Full-Stack Web Developer with a strong
+        passion for coding, problem-solving, and building scalable digital
+        solutions. He has extensive hands-on experience in designing,
+        developing, and deploying real-world web applications, showcasing solid
+        expertise across both frontend and backend technologies. With a
+        Bachelor’s degree in Medical Laboratory Sciences, Anthony combines
+        analytical thinking with meticulous attention to detail in his
+        development process. He is focused on delivering high-quality,
+        user-centered solutions and continues to refine his craft through
+        innovative, impactful projects.
       </>
     ),
   },
