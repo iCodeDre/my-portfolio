@@ -58,14 +58,14 @@ const home = {
     display: true,
     title: (
       <>
-        Recent project: <strong className="ml-4">M.luxe Stitches</strong>
+        Recent project: <strong className="ml-4">Webstack ICT Global</strong>
       </>
     ),
-    href: "https://m-luxe-stitches.vercel.app/",
+    href: "https://webstack-ict-global.vercel.app/",
   },
   subline: (
     <>
-      I'm Anthony(iCodeDre), an experinced Full-Stack Web Developer,
+      I'm Anthony(iCodeDre), an experienced Full-Stack Web Developer,
       <br /> passionate about bringing ideas to life with code.
     </>
   ),
@@ -129,6 +129,33 @@ const about = {
         images: [
           {
             src: "/images/projects/m-luxe-stiches/homepage.png",
+            alt: "Once UI Project",
+            width: 16,
+            height: 9,
+          },
+        ],
+      },
+      {
+        company: "Webstack ICT Global",
+        timeframe: "2025 - Present",
+        role: "Freelance Web Developer",
+        achievements: [
+          <>
+            Designed and developed a fully functional web application for
+            WEbsctak ICT Global where users can register, enroll in different
+            departments, view upcoming, live and past events, apply and get quote
+            for different services, manage enrollmetns and progress in
+            dashboard.
+          </>,
+          <>
+            Designed and implemented SEO-ready architecture using Next.js,
+            enabling dynamic meta tags, fast page loads, and optimized content
+            structure for improved discoverability.
+          </>,
+        ],
+        images: [
+          {
+            src: "/images/projects/webstack/webstack-1.png",
             alt: "Once UI Project",
             width: 16,
             height: 9,
